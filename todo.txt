@@ -1,0 +1,16 @@
+
+check for valid moves
+deploy to webhost - done
+
+
+score
+solver - prob monte carlo
+look and feel
+
+update for 1 move, 10 moves maybe others & update ui
+
+evaulate concrete strategies
+
+create strategies
+
+
